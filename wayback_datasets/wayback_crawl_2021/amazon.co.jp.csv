@@ -1,0 +1,13 @@
+type,captures,urls,new_urls
+text/html,158920615,85182517,63373031
+image/png,3209492,3175753,3175435
+image/gif,390179,384556,382756
+application/json,309895,212531,204892
+text/plain,58512,51517,47264
+audio/x-mpegurl,15545,11650,11428
+application/javascript,3343,28,18
+image/jpeg,1986,870,856
+text/css,462,34,19
+audio/x-pn-realaudio,24,13,13
+application/xml,14,9,6
+video/mp4,2,1,1

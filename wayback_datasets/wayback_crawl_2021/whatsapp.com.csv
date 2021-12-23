@@ -1,0 +1,17 @@
+type,captures,urls,new_urls
+text/html,842691,376568,264336
+image/png,36812,6622,5914
+image/jpeg,9028,4983,3422
+image/vnd.microsoft.icon,3756,9,1
+text/css,3217,314,275
+image/svg+xml,2396,52,19
+application/octet-stream,2344,104,49
+text/x-component,517,6,1
+application/vnd.symbian.install,393,151,77
+application/vnd.android.package-archive,328,17,6
+application/vnd.rim.cod,165,165,163
+font/ttf,123,5,1
+application/json,96,96,96
+text/vnd.sun.j2me.app-descriptor,93,45,11
+text/plain,31,12,6
+image/gif,4,3,3

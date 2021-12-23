@@ -1,0 +1,11 @@
+type,captures,urls,new_urls
+text/html,7840369,4319050,3219048
+image/gif,58519,53249,51045
+image/jpeg,15144,12848,12518
+image/png,5790,962,424
+application/vnd.google-earth.kml+xml,4023,3452,3130
+text/css,1015,487,437
+text/plain,134,16,5
+application/json,33,29,21
+application/xml,7,2,2
+application/x-wais-source,1,1,1

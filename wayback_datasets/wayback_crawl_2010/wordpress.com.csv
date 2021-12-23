@@ -1,0 +1,15 @@
+type,captures,urls,new_urls
+text/html,9465221,5244801,4748276
+image/png,2764,223,160
+image/jpeg,1978,1408,1386
+image/gif,1447,132,111
+text/css,1149,211,196
+application/octet-stream,80,5,2
+application/x-shockwave-flash,71,29,21
+application/xml,62,4,0
+application/javascript,41,2,1
+image/vnd.microsoft.icon,35,1,0
+application/atomserv+xml,10,2,2
+application/atom+xml,6,4,2
+text/plain,5,2,1
+audio/mpeg,1,1,1

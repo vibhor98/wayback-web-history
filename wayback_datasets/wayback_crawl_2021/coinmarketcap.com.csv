@@ -1,0 +1,15 @@
+type,captures,urls,new_urls
+text/html,1073727,673088,539452
+image/png,60117,5965,2973
+application/json,5087,975,830
+text/css,4117,1474,1425
+application/javascript,3361,351,286
+application/octet-stream,1358,41,28
+image/jpeg,1214,394,378
+image/svg+xml,907,238,224
+image/gif,485,14,8
+font/woff2,221,46,44
+application/vnd.ms-fontobject,114,8,3
+font/woff,57,28,25
+font/ttf,13,2,0
+text/plain,4,3,2

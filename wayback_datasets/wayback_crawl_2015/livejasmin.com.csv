@@ -1,0 +1,15 @@
+type,captures,urls,new_urls
+text/html,7392717,5373296,4960945
+image/jpeg,63716,52249,49903
+image/gif,20482,13721,13289
+application/javascript,2045,59,42
+application/pdf,282,277,275
+application/msword,282,277,275
+text/x-component,250,9,2
+text/css,130,21,10
+application/octet-stream,61,14,7
+application/xml,36,13,2
+application/vnd.android.package-archive,35,5,4
+application/x-shockwave-flash,7,3,2
+text/plain,3,3,3
+application/java-vm,1,1,1

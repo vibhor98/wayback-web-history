@@ -1,0 +1,14 @@
+type,captures,urls,new_urls
+image/jpeg,56481,42447,26491
+text/html,39230,23031,21511
+image/gif,12005,3387,1238
+image/png,9138,4426,1883
+application/javascript,3104,305,72
+text/css,2654,375,80
+application/x-shockwave-flash,1002,249,82
+text/vnd.wap.wml,879,524,524
+text/plain,266,163,97
+application/xml,130,118,118
+application/vnd.android.package-archive,60,13,5
+application/msword,31,19,5
+application/pdf,27,27,26

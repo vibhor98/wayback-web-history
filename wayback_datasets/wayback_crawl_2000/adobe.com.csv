@@ -1,0 +1,11 @@
+type,captures,urls,new_urls
+text/html,86557,30426,22466
+image/gif,23048,16142,11369
+application/pdf,5512,2754,1958
+image/jpeg,2852,2074,1716
+video/quicktime,213,139,115
+application/mac-binhex40,118,72,59
+text/plain,116,70,41
+application/zip,75,40,28
+application/x-tar,64,38,35
+application/octet-stream,39,35,34

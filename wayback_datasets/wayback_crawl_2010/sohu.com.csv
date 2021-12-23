@@ -1,0 +1,14 @@
+type,captures,urls,new_urls
+text/html,103551,62196,49843
+image/gif,3265,1525,955
+image/jpeg,1863,1462,976
+application/pdf,794,274,107
+text/css,226,60,42
+application/msword,132,77,53
+image/png,100,29,23
+text/plain,79,26,10
+application/x-shockwave-flash,43,28,15
+image/vnd.microsoft.icon,25,1,0
+application/xml,13,2,1
+application/zip,8,2,2
+application/octet-stream,3,3,3

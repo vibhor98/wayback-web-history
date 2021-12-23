@@ -1,0 +1,11 @@
+type,captures,urls,new_urls
+text/html,9630785,6610355,6279316
+image/png,14811,672,472
+image/gif,6676,124,60
+text/css,2349,340,325
+application/xml,1159,843,815
+image/jpeg,317,161,116
+application/json,72,21,19
+application/octet-stream,13,9,4
+application/pdf,8,7,7
+application/x-shockwave-flash,2,2,2

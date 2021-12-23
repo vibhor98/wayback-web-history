@@ -1,0 +1,13 @@
+type,captures,urls,new_urls
+text/html,25296,20054,18193
+image/png,11823,7362,5580
+application/octet-stream,391,303,284
+text/css,316,170,162
+image/gif,193,56,27
+text/plain,146,146,146
+application/json,92,55,53
+image/svg+xml,22,8,6
+audio/mpeg,12,7,7
+image/jpeg,4,2,2
+application/xml,4,2,1
+application/x-shockwave-flash,2,1,1

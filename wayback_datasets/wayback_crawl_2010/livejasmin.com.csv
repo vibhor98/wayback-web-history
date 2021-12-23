@@ -1,0 +1,14 @@
+type,captures,urls,new_urls
+text/html,3255563,2321611,2077899
+image/jpeg,54370,42905,40560
+image/gif,1891,775,489
+application/pdf,282,277,275
+application/msword,282,277,275
+text/css,130,21,10
+application/octet-stream,61,14,7
+application/javascript,20,6,6
+application/xml,17,6,2
+text/x-component,7,2,1
+application/x-shockwave-flash,7,3,2
+text/plain,3,3,3
+application/java-vm,1,1,1

@@ -1,0 +1,17 @@
+type,captures,urls,new_urls
+text/html,1048011,655441,545984
+application/json,362070,159795,151775
+application/octet-stream,29721,6978,6053
+image/png,6605,1186,684
+image/jpeg,3368,1329,962
+application/xml,2508,1711,976
+image/gif,2185,894,505
+application/javascript,1468,1331,1323
+text/css,843,210,166
+text/plain,56,20,8
+application/vnd.ms-excel,33,1,1
+application/msword,31,1,1
+application/x-shockwave-flash,9,7,5
+application/pdf,4,3,3
+video/x-ms-asf,2,2,2
+audio/x-pn-realaudio,2,2,1

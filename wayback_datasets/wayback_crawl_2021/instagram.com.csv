@@ -1,0 +1,16 @@
+type,captures,urls,new_urls
+text/html,162689852,85765518,59647974
+application/json,16408123,6926393,6708164
+image/png,6710416,2341,1234
+text/css,5759732,6550,5842
+image/jpeg,1855267,363,149
+image/vnd.microsoft.icon,557098,27,13
+image/svg+xml,167895,21,14
+image/gif,115608,54560,54468
+application/vnd.ms-fontobject,84016,12,12
+video/mp4,1729,3,2
+application/zip,1527,9,9
+application/pdf,385,18,4
+application/octet-stream,170,1,1
+text/plain,42,16,14
+application/xml,2,1,0

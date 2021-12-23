@@ -1,0 +1,17 @@
+type,captures,urls,new_urls
+text/html,13173950,5354663,5116534
+image/jpeg,620123,504842,498344
+image/png,51720,12677,12343
+image/gif,47307,16651,16415
+application/atom+xml,44724,14137,14120
+text/css,10710,468,383
+application/x-shockwave-flash,2029,21,12
+audio/mpeg,407,4,1
+application/xml,387,18,17
+text/plain,371,8,8
+application/pdf,211,17,11
+application/postscript,7,2,1
+application/octet-stream,5,1,1
+application/x-tar,4,2,1
+text/calendar,3,1,1
+audio/x-wav,1,1,1

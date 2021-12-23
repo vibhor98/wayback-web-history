@@ -1,0 +1,5 @@
+type,captures,urls,new_urls
+image/gif,50,5,0
+text/html,2,2,0
+text/css,2,2,2
+application/javascript,2,2,2

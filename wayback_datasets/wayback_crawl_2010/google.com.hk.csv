@@ -1,0 +1,17 @@
+type,captures,urls,new_urls
+text/html,143882,62924,53800
+image/gif,3821,2550,1832
+image/jpeg,1823,1321,1010
+image/png,780,354,349
+application/pdf,508,257,172
+application/atom+xml,342,254,253
+text/css,263,116,88
+text/vnd.wap.wml,227,71,60
+application/zip,128,102,85
+application/xml,80,78,78
+text/plain,27,17,12
+application/octet-stream,11,7,3
+application/xhtml+xml,9,3,3
+application/x-shockwave-flash,7,5,4
+x-epoc/x-sisx-app,4,2,2
+application/json,2,2,1

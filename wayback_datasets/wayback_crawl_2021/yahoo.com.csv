@@ -1,0 +1,17 @@
+type,captures,urls,new_urls
+text/html,45582411,12723158,11729052
+application/json,2115691,1806000,1768100
+image/gif,521807,466304,461606
+application/javascript,325348,1292,986
+application/xml,274889,36191,29704
+image/vnd.microsoft.icon,22839,22,2
+image/png,13189,165,130
+image/jpeg,7939,2373,2146
+application/vnd.ms-fontobject,2753,15,9
+text/css,579,109,103
+image/svg+xml,520,5,4
+text/plain,381,46,14
+application/octet-stream,312,3,2
+application/x-shockwave-flash,14,12,12
+audio/x-pn-realaudio,8,3,1
+video/x-ms-asf,1,1,0

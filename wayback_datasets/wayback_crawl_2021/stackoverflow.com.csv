@@ -1,0 +1,11 @@
+type,captures,urls,new_urls
+text/html,84915190,41831462,28788108
+application/atom+xml,2861701,2773658,2483645
+image/gif,91620,61109,60377
+application/json,48586,46705,46642
+image/png,17946,10536,4491
+text/plain,5290,2322,2115
+application/javascript,635,58,51
+image/svg+xml,430,14,12
+text/css,96,43,24
+image/jpeg,45,10,10

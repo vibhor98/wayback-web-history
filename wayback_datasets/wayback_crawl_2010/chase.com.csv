@@ -1,0 +1,13 @@
+type,captures,urls,new_urls
+text/html,88302,24337,17111
+image/gif,23986,10318,7772
+image/jpeg,4269,2378,1841
+text/css,1774,364,174
+application/pdf,766,468,356
+text/plain,171,103,69
+image/png,34,29,29
+application/msword,34,8,4
+application/vnd.ms-powerpoint,14,6,6
+application/zip,5,5,5
+audio/x-wav,2,2,0
+application/x-director,2,2,2

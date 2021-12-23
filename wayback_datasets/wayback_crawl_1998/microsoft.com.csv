@@ -1,0 +1,10 @@
+type,captures,urls,new_urls
+text/html,9799,3761,3721
+image/gif,1683,806,806
+application/octet-stream,700,304,304
+image/jpeg,475,212,212
+audio/x-wav,113,67,67
+video/x-msvideo,86,64,64
+application/msword,26,16,16
+application/rtf,9,9,9
+application/zip,3,3,3

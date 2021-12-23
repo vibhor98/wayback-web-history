@@ -1,0 +1,15 @@
+type,captures,urls,new_urls
+text/html,32527171,22995469,14963950
+image/gif,10770142,5248695,4995398
+application/json,64478,47938,47097
+image/png,40138,459,229
+text/plain,18723,18397,18359
+text/css,9124,346,170
+image/jpeg,1301,427,368
+application/javascript,1219,36,11
+text/csv,905,653,640
+application/x-shockwave-flash,236,26,16
+video/webm,31,15,15
+application/pdf,10,6,4
+video/mp4,5,5,5
+application/xml,2,2,2

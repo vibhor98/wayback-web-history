@@ -1,0 +1,16 @@
+type,captures,urls,new_urls
+text/html,50189973,34981585,32032819
+application/javascript,584146,345753,283812
+image/png,105469,3725,3102
+image/gif,74363,252,61
+text/css,51706,9435,8613
+application/json,18391,10616,10530
+application/xml,1159,843,815
+image/jpeg,332,169,121
+image/svg+xml,17,3,1
+application/octet-stream,14,10,5
+application/atom+xml,9,1,1
+application/pdf,8,7,7
+application/vnd.ms-fontobject,6,6,6
+text/plain,3,1,0
+application/x-shockwave-flash,3,3,2
