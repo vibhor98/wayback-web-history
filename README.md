@@ -11,8 +11,8 @@ and timing of these changes. This paper attempts to address this
 gap in the literature by looking at the top 100 Alexa websites for
 over 25 years from the Internet Archive or the “Wayback Machine”,
 *archive.org*. We study the changes in popularity, from Geocities
-and Yahoo! in the mid-to-late 1990s to the likes of Google, Face-
-book, and Tiktok of today. We also look at different categories of
+and Yahoo! in the mid-to-late 1990s to the likes of Google, Facebook,
+and Tiktok of today. We also look at different categories of
 websites and their popularity over the years, the emergence and
 relative prevalence of different mime-types (text vs. image vs. video
 vs. javascript and json) and study whether the use of text on the
