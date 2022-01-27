@@ -1,5 +1,5 @@
 # "Way back then": A Data-driven View of 25+ years of Web Evolution
-Vibhor Agarwal and Nishanth Sastry, "Way back then": A Data-driven View of 25+ years of Web Evolution, The Web Conference (WebConf), 2022
+Vibhor Agarwal and Nishanth Sastry, "Way back then": A Data-driven View of 25+ years of Web Evolution, The Web Conference (WebConf), 2022.
 
 ## Abstract
 Since the inception of the first web page three decades back, the Web
@@ -16,9 +16,17 @@ and Tiktok of today. We also look at different categories of
 websites and their popularity over the years, the emergence and
 relative prevalence of different mime-types (text vs. image vs. video
 vs. javascript and json) and study whether the use of text on the
-Internet is declining
+Internet is declining.
 
 The paper PDF will be available soon!
+
+## Directory Structure
+* `codes` folder contains scraper for *archive.org* and other Python scripts used for analysis.
+* `figures` folder contains all the figures used in the WebConf paper.
+* `google_trends_data` folder contains the datasets downloaded from Google Trends.
+* `wayback_datasets` folder contains the data crawled from *archive.org*.
+* `year_wise_top_websites` folder contains the year-wise top 10 websites.
+* `Alexa-Top-sites.csv` contains top 100 websites collected from *Alexa.com* based on Alexa rankings in Nov 2021.
 
 ## Citation
 If you find this paper useful in your research, please consider citing:
