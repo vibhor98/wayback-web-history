@@ -18,7 +18,7 @@ relative prevalence of different mime-types (text vs. image vs. video
 vs. javascript and json) and study whether the use of text on the
 Internet is declining.
 
-The paper PDF will be available soon!
+The paper PDF is available [here](https://arxiv.org/pdf/2202.08239.pdf)!
 
 ## Directory Structure
 * `codes` folder contains scraper for *archive.org* and other Python scripts used for analysis.
