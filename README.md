@@ -1,5 +1,5 @@
 # "Way back then": A Data-driven View of 25+ years of Web Evolution
-Vibhor Agarwal and Nishanth Sastry, "Way back then": A Data-driven View of 25+ years of Web Evolution, The Web Conference (WebConf), 2022.
+**Vibhor Agarwal** and Nishanth Sastry, "Way back then": A Data-driven View of 25+ years of Web Evolution, The ACM Web Conference (TheWebConf), 2022.
 
 ## Abstract
 Since the inception of the first web page three decades back, the Web
@@ -18,7 +18,7 @@ relative prevalence of different mime-types (text vs. image vs. video
 vs. javascript and json) and study whether the use of text on the
 Internet is declining.
 
-The paper PDF is available [here](https://arxiv.org/pdf/2202.08239.pdf)!
+The paper PDF is available [here](https://dl.acm.org/doi/pdf/10.1145/3485447.3512283)!
 
 ## Directory Structure
 * `codes` folder contains scraper for *archive.org* and other Python scripts used for analysis.
@@ -31,10 +31,11 @@ The paper PDF is available [here](https://arxiv.org/pdf/2202.08239.pdf)!
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-@inproceedings{agarwal2022waybackthen,
-title={"Way back then": A Data-driven View of 25+ years of Web Evolution},
-author={Vibhor Agarwal and Nishanth Sastry},
-booktitle={The Web Conference (WebConf)},
-year={2022}
+@inproceedings{agarwal2022way,
+  title={“Way back then”: A Data-driven View of 25+ years of Web Evolution},
+  author={Agarwal, Vibhor and Sastry, Nishanth},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={3471--3479},
+  year={2022}
 }
 ```
